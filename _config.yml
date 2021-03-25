@@ -10,6 +10,18 @@ show_excerpts: true # set to true to show excerpts on the homepage
 #baseurl: /texture
 url : "https://wowchois.github.io"
 
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
