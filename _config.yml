@@ -25,7 +25,7 @@ texture:
   showPicker: false
   
   navigation:
-    - title: page
+    - title: category
       url: "/categories/"
     - title: post
       url: "/post/"
