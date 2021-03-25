@@ -15,7 +15,7 @@ url : "https://wowchois.github.io"
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: /posts/:categories/:title/
 texture:
   title: chois
   tagline: blog
