@@ -25,10 +25,10 @@ texture:
   showPicker: false
   
   navigation:
-    - title: test
-      url: "/test/"
-    - title: Resume
-      url: "/resume"
+    - title: page
+      url: "/page/"
+    - title: post
+      url: "/post/"
 
   # generate social links in footer
   social_links:
