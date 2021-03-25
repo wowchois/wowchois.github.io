@@ -39,8 +39,8 @@ texture:
   navigation:
     - title: category
       url: "/categories/"
-    - title: post
-      url: "/post/"
+    - title: about
+      url: "/about/"
 
   # generate social links in footer
   social_links:
