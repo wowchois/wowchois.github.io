@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
+category : test
 date: 2021-03-25 
 ---
 
