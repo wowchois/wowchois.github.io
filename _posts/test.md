@@ -1,6 +1,6 @@
 ---
 title: "test page"
-permalink: /categories/test/
+permalink: /categories/
 ---
 
 test category 
