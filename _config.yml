@@ -26,7 +26,7 @@ texture:
   
   navigation:
     - title: page
-      url: "/page/"
+      url: "/categories/"
     - title: post
       url: "/post/"
 
