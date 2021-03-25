@@ -17,19 +17,25 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: chois
+  tagline: blog
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
-  showPicker: true
+  showNav: true
+  showPicker: false
+  
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+  #  twitter: thelehhman
     github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+  #  linkedIn: in/thelehhman
+  #  rss: rss
  
 
 # If you want to link only specific pages in your header, uncomment
